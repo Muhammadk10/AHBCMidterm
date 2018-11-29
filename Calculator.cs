@@ -40,6 +40,8 @@ namespace Midterm2
             {
                 return (salesTax * amount);
             }
+
+        //HELLLOO JAMES
         }
 
     }
